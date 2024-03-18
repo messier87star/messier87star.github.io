@@ -535,6 +535,7 @@ export async function handleSync(argv) {
       stdio: "inherit",
     })
     console.log(res)
+    console.log(["push", "-uf", ORIGIN_NAME, QUARTZ_SOURCE_BRANCH])
     if (res.status !== 0) {
       console.log(chalk.red(`An error occurred above while pushing to remote ${ORIGIN_NAME}.`))
       return
