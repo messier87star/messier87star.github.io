@@ -74,7 +74,7 @@ $$
 \Large \displaystyle R = g^{\mu \nu} R_{\mu \nu}
 $$
 
-(Once again, note the use use of the Einstein convention.)
+(Once again, note the use of the Einstein convention.)
 
 What we’ve shown here is that the entire left hand side of Einstein’s field equation depends only on the shape of spacetime (that is, on the metric tensor), while the right hand side depends only on the matter/energy distribution of spacetime (that is, on the stress-energy tensor). Therefore, the field equation relates the **curved spacetime** ($g^{\mu \nu}$) to the **matter** within it ($T^{\mu \nu}$), thus fulfilling Wheeler’s claim that **“matter tells spacetime how to curve.”**
 
