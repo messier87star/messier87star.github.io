@@ -27,3 +27,7 @@ Sidhant
 [[index.md|Post 0]]
 
 [[blog1.md|Post 1]]
+
+[[blog2.md|Post 2]]
+
+[[blog3.md|Post 3]]
