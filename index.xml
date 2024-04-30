@@ -6,29 +6,35 @@
       <description>Last 10 notes on Photon Orbits and the Geometry of Black Holes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Blog Post 4 - Autocorrelations and Critical Exponents</title>
+    <link>https://quartz.jzhao.xyz/blog4</link>
+    <guid>https://quartz.jzhao.xyz/blog4</guid>
+    <description>You may have noticed there’s been a bit of a break in the blog! I was out of town for a while and not updating the blog super regularly, but rest assured that over the next few days I’ll be ...</description>
+    <pubDate>Mon, 29 Apr 2024 10:47:27 GMT</pubDate>
+  </item><item>
+    <title>Blog Post 0 - Introduction</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Welcome! Welcome to my blog! Over the coming weeks, I’ll be using this blog to walk through my senior project about black holes and photon rings step-by-step ...</description>
+    <pubDate>Wed, 27 Mar 2024 05:00:30 GMT</pubDate>
+  </item><item>
     <title>Blog Post 3 - An Exercise in Geodesics</title>
     <link>https://quartz.jzhao.xyz/blog3</link>
     <guid>https://quartz.jzhao.xyz/blog3</guid>
     <description>Welcome to my next blog post! I’ve been promising for a few weeks now to get into the details of the geodesic equation, which governs how objects move through curved spacetime, so let’s ...</description>
-    <pubDate>Tue, 26 Mar 2024 05:56:54 GMT</pubDate>
+    <pubDate>Wed, 27 Mar 2024 05:00:00 GMT</pubDate>
   </item><item>
     <title>Blog Post 2 - Geodesics</title>
     <link>https://quartz.jzhao.xyz/blog2</link>
     <guid>https://quartz.jzhao.xyz/blog2</guid>
     <description>Welcome back! This week, we’ll be continuing where we left off and talking about my reading on one of the most crucial concepts in general relativity: geodesics ...</description>
-    <pubDate>Tue, 19 Mar 2024 06:53:32 GMT</pubDate>
+    <pubDate>Tue, 26 Mar 2024 09:56:32 GMT</pubDate>
   </item><item>
     <title>Blog Post 1 - General Relativity</title>
     <link>https://quartz.jzhao.xyz/blog1</link>
     <guid>https://quartz.jzhao.xyz/blog1</guid>
     <description>Hey everyone! Thanks for tuning into this next blog post; it’s a pretty long background one, so buckle up! In this first post after the introduction, I’m going to go through a lot of the ...</description>
     <pubDate>Tue, 19 Mar 2024 02:41:51 GMT</pubDate>
-  </item><item>
-    <title>Blog Post 0 - Introduction</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>Welcome! Welcome to my blog! Over the coming weeks, I’ll be using this blog to walk through my senior project about black holes and photon rings step-by-step ...</description>
-    <pubDate>Thu, 14 Mar 2024 18:29:16 GMT</pubDate>
   </item>
     </channel>
   </rss>
