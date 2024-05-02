@@ -6,6 +6,12 @@
       <description>Last 10 notes on Photon Orbits and the Geometry of Black Holes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Blog Post 6 - The Lyapunov Exponent</title>
+    <link>https://quartz.jzhao.xyz/blog6</link>
+    <guid>https://quartz.jzhao.xyz/blog6</guid>
+    <description>In the previous blog post, we established the definition of the Lyapunov in terms of the deviations of a nearly bound geodesic from its bound orbit; namely, that γ=n1​ln(δr0​δrn​​) ...</description>
+    <pubDate>Thu, 02 May 2024 05:52:49 GMT</pubDate>
+  </item><item>
     <title>Blog Post 5 - The Kerr-Newman Metric</title>
     <link>https://quartz.jzhao.xyz/blog5</link>
     <guid>https://quartz.jzhao.xyz/blog5</guid>
